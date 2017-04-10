@@ -1,6 +1,12 @@
 Submitted by - Jyotsna Rastogi (RIT2015022)
 
-This project is built on Windows 8.1 using netbeans 8.2
+This project is built on Windows 8.1 using netbeans 8.2 
+
+To compile on command line-
+
+change directory- cd ppl-assignment-JyotsnaRastogi/Q8/src
+
+javac ./main/Main.java
 
 To run on command line-
 
