@@ -6,6 +6,6 @@ To run on command line-
 
 1-change directory to the project directory using : cd ppl-assignment-JyotsnaRastogi/Q3/build/classes
 
-2- for executing question 1 and question 2 (for both questions Main.java file):java main.Main
+2- for executing question 3 (for both questions Main.java file):java main.Main
 
 Class diagram is present inside Q3 as q3classdiagram and documentation is present in dist folder inside Q3 folder.
